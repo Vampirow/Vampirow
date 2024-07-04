@@ -18,9 +18,7 @@ Me chamo Daniel Ciesla conhecido como Vampirow ou Vamp. Depois de anos trabalhan
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=vampirow&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
