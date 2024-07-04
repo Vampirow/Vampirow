@@ -23,4 +23,4 @@ Me chamo Daniel Ciesla conhecido como Vampirow ou Vamp. Depois de anos trabalhan
 ![Kotlin](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=vampirowp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=vampirow&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
